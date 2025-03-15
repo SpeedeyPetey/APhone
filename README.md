@@ -51,15 +51,15 @@ A simple digital replica of an iPhone with three functional applications:
 - All Tasks Saved until aPhone is Shut Down
   
 **Installation:**
-1. Download the ZIP file from the repository and [Thonny](https://thonny.org/) if you don't already have a Python IDE installed.
+1. **Download the ZIP file** from the repository and [Thonny](https://thonny.org/) if you don't already have a Python IDE installed.
 
-2. Extract the ZIP file to your desired location.
+2. **Extract the ZIP file** to your desired location.
 
-3. Open the extracted folder and locate the Thonny file called **aPhone Project**.
+3. **Open the extracted folder** and locate the Thonny file called **aPhone Project**.
 
-4. Open Thonny (or your preferred IDE) and load the project file.
+4. Open Thonny (or your preferred IDE) and **load the project file**.
 
-5. Run the main script to start the project.
+5. **Run** the main script to start the project.
 
 **Contact:** 
 - **Peter Vo** - vo.phu050308@gmail.com
