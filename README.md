@@ -2,7 +2,7 @@
 
 **Description:**
 
-A simple digital replica of an iPhone with three functional applications: 
+A simple digital replica of an *Apple* iPhone with three functional applications, reinforcing core **Tkinter** concepts: 
 - **Uber Feast** (Inspired by Uber Eats)
   - Browse Groceries & Menus
   - Place Simulated Orders 
