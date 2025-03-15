@@ -62,5 +62,5 @@ A simple digital replica of an iPhone with three functional applications:
 
 **Contact:** 
 - **Peter Vo** - vo.phu050308@gmail.com
-- **Github:** Speedey Petey
+- **Github:** SpeedeyPetey
     
