@@ -12,7 +12,8 @@ A simple digital replica of an iPhone with three functional applications:
   - Add, Save, and Delete Tasks 
 
 **Technology Used:** 
-- Thonny (Pythong IDE)
+- **Thonny** (Code Editor/IDE - Python IDE for Beginners)
+- **Python** (Language - High-level Programming Language)
 
 **Features:**
 
